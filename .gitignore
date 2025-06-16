@@ -1,0 +1,6 @@
+__pycache__
+kolmdata/
+nemo-curator-jobs/
+.env
+*.log
+*.out
