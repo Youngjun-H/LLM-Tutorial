@@ -1,6 +1,9 @@
 __pycache__
 kolmdata/
 nemo-curator-jobs/
+cache/
+dataset/
+notebooks/
 .env
 *.log
 *.out
