@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=finetuning
-##SBATCH --nodelist=hpe159,hpe162
-#SBATCH --nodelist=nv174
+#SBATCH --nodelist=hpe159,hpe160
+## SBATCH --nodelist=cubox12,cubox13
 #SBATCH --gres=gpu:8
 #SBATCH --cpus-per-task=20
 #SBATCH --mem-per-cpu=8G

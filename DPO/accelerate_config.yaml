@@ -1,0 +1,4 @@
+compute_environment: SLURM
+distributed_type: MULTI_GPU
+mixed_precision: bf16
+use_cpu: false 
