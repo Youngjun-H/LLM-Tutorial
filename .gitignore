@@ -4,6 +4,8 @@ nemo-curator-jobs/
 cache/
 dataset/
 notebooks/
+wandb/
 .env
 *.log
+*.err
 *.out
